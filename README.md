@@ -1,5 +1,5 @@
- # Create TidyD data set
-
+Create TidyD data set
+=======================
  The run_analysis function creates a tidy dataset as follows
 
  1. First, the required packages for this function is loaded
