@@ -1,8 +1,8 @@
- ## Create TidyD data set
+ # Create TidyD data set
 
  The run_analysis function creates a tidy dataset as follows
 
- 1. First, the required packages for this function is loade
+ 1. First, the required packages for this function is loaded
  .. dplyr
 
  1. A very basic test is performed to see if the required dta exist, by checking if the
